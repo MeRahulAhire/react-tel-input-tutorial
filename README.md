@@ -13,4 +13,8 @@ this repo is associated with my Youtube channel video:
 
 # Part 2 : Making it Installable React PWA
 ### Requirement (chart)
-[![](https://raw.githubusercontent.com/MeRahulAhire/react-tel-input-tutorial/master/Pwa_req_diagram.png)](https://youtu.be/1lbwo_-OIvo "React Tel Picker - How to Make International Telephone Picker in React")
+[![](https://raw.githubusercontent.com/MeRahulAhire/react-tel-input-tutorial/master/Pwa_req_diagram.png)])
+
+### Watch this tutorial 👇🏽👇🏽
+
+[![](https://i9.ytimg.com/vi_webp/MMXKjrBWgPo/mqdefault.webp?sqp=COSkofgF&rs=AOn4CLAXRdtjqwyTvR8Jpf1m-mQsjdqXlw)](https://youtu.be/MMXKjrBWgPo "The Easiest way to convert your React App into React-PWA")
