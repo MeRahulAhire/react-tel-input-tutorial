@@ -1,5 +1,5 @@
 # React tel input tutorial 
-this repo is associated with my Youtube channel video:
+this repo is associated with my Youtube channel's video:
 
 👇🏽👇🏽
 
@@ -13,7 +13,7 @@ this repo is associated with my Youtube channel video:
 
 # Part 2 : Making it Installable React PWA
 ### Requirement (chart)
-[![](https://raw.githubusercontent.com/MeRahulAhire/react-tel-input-tutorial/master/Pwa_req_diagram.png)])
+![](https://raw.githubusercontent.com/MeRahulAhire/react-tel-input-tutorial/master/Pwa_req_diagram.png)
 
 ### Watch this tutorial 👇🏽👇🏽
 
