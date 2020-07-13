@@ -17,4 +17,8 @@ this repo is associated with my Youtube channel's video:
 
 ### Watch this tutorial 👇🏽👇🏽
 
-[![](https://i9.ytimg.com/vi_webp/MMXKjrBWgPo/mqdefault.webp?sqp=COSkofgF&rs=AOn4CLAXRdtjqwyTvR8Jpf1m-mQsjdqXlw)](https://youtu.be/MMXKjrBWgPo "The Easiest way to convert your React App into React-PWA")
+
+
+[![](https://i.ytimg.com/vi/MMXKjrBWgPo/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCTB49bbUayVzHHeoGpsP-Ip1UpcQ
+)](https://youtu.be/MMXKjrBWgPo "
+The Easiest way to convert your React App into React-PWA")
